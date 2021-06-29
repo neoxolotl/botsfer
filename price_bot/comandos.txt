@@ -14,9 +14,7 @@ account from metamask
 
 
 
-RPC_URL="https://ropsten.infura.io/v3/68342402c9af4e6482ef74e6d2251568"
-PRIVATE_KEY="b661c010cc59720919774126ba01d1311b3ed78c207cabeea6ebb4a0b2fed235"
-ACCOUNT="0x88E2c1951Ef3E0D5ec4a0c20ccf2F3EA2148f755"
+
 ~                                                                                                                                                            
 ~                                                                                                                                                            
 ~                                                                                                                                                            
