@@ -1,0 +1,31 @@
+#!/bin/sh
+
+echo "Enter fiat ..."
+while :
+do
+  read INPUT_STRING
+  case $INPUT_STRING in
+        fiat)
+		echo "Enter fiat -Peso -dolar eur "
+		read fiat
+		echo " Monto " 
+		read monto
+
+		echo $fiat
+		echo $monto
+
+	    
+
+
+		;;
+	cripto)
+		echo "hello cripto"
+		
+		;;
+	*)
+		echo "Sorry, I don't understand"
+		;;
+  esac
+done
+echo 
+echo "That's all folks!"

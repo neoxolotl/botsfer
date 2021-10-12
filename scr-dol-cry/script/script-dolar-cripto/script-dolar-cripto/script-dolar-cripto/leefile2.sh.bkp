@@ -1,0 +1,23 @@
+filename='file2'
+set c
+
+
+
+while read line; do
+    
+#    ((cont=cont+1)) 
+
+	cont=$((cont+1))
+	echo $cont
+	echo "------------------> contador-------->            "$cont
+    
+    valor=`echo $line | cut -c 1-3`
+    echo "--------------------> "$valor
+
+    if [ $cont == 5] 
+    then
+	echo "compra---vale 5 "$valor
+    else 
+	echo . 	
+    fi
+done < $filename

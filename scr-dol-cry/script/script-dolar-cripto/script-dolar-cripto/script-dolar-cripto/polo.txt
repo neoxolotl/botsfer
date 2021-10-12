@@ -1,0 +1,6 @@
+[7/13/21 22:23:00:936 BST] 00000072 AdminHelper   A   ADMN1020I: An attempt is made to stop the test1 server. (User ID = defaultWIMFileBasedRealm/wasadmin)
+[7/13/21 22:23:06:722 BST] 0000004a ServerCollabo A   WSVR0024I: Server test1 stopped
+[9/7/21 21:16:59:616 BST] 00000052 NGUtil$Server I   ASND0002I: Detected server test1 started on node node01
+[9/8/21 22:29:59:110 BST] 00000051 NGUtil$Server I   ASND0002I: Detected server test1 started on node node01
+[9/8/21 23:12:41:413 BST] 0000008c AdminHelper   A   ADMN1020I: An attempt is made to stop the test1 server. (User ID = defaultWIMFileBasedRealm/wasadmin)
+[9/8/21 23:12:47:484 BST] 0000004b ServerCollabo A   WSVR0024I: Server test1 stopped
