@@ -2,31 +2,31 @@
 
   oficial: 
 
-    value_avg: 101.53,
-    value_sell: 104.53,
-    value_buy: 98.53
+    value_avg: 101.94,
+    value_sell: 104.94,
+    value_buy: 98.94
   
 
   blue: 
 
-    value_avg: 182.5,
-    value_sell: 184.5,
-    value_buy: 180.5
+    value_avg: 193,
+    value_sell: 195,
+    value_buy: 191
   
 
   oficial_euro: 
 
-    value_avg: 109.17,
-    value_sell: 112.4,
-    value_buy: 105.95
+    value_avg: 109.61,
+    value_sell: 112.84,
+    value_buy: 106.39
   
 
   blue_euro: 
 
-    value_avg: 196.24,
-    value_sell: 198.39,
-    value_buy: 194.09
+    value_avg: 207.53,
+    value_sell: 209.68,
+    value_buy: 205.38
   
 
-  last_update: 2021-10-11T19:55:36.167811-03:00
+  last_update: 2021-10-22T19:55:37.114509-03:00
 }

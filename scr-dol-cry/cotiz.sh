@@ -32,12 +32,17 @@ do
 
 
 	echo "File redy: file1"
-	cat file1
+#	cat file1
+
+	OUTPUT="$(cat file1)"
+
+	echo -e "${GREEN} ${OUTPUT}"
+
 
 
 	#echo "only values"
 	#edad=`cut -d ":" -f2 file1`
 
-	echo "$edad" > file2
-	./leefile2.sh
+#	echo "$edad" > file2
+#	./legfile2.sh
 done
